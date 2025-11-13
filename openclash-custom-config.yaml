@@ -442,18 +442,22 @@ proxies:
 # 如果相应分组没有筛选到对应的国家，请根据自己节点名字调整筛选关键字。
 # 没有再使用锚点，是考虑很多新手修改难度，这样新手修改某个分组更容易些。
 proxy-groups:
-  - { name: 🚀 默认代理, type: select, proxies: [🔯 香港故转, 🔯 日本故转, 🔯 狮城故转, 🔯 美国故转, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 德国自动, ♻️ 英国自动, ♻️ 台湾自动, ♻️ 菲律宾自动, ♻️ 自动选择, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 狮城节点, 🇺🇲 美国节点, 🇩🇪 德国节点, 🇬🇧 英国节点, 🇹🇼 台湾节点, 🇵🇭 菲律宾节点, 🌐 全部节点, 直连]}
-  - { name: 📹 YouTube, type: select, proxies: [🔯 美国故转, 🔯 香港故转, 🔯 日本故转, 🔯 狮城故转, ♻️ 美国自动, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 德国自动, ♻️ 英国自动, ♻️ 台湾自动, ♻️ 菲律宾自动, ♻️ 自动选择, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 狮城节点, 🇺🇲 美国节点, 🇩🇪 德国节点, 🇬🇧 英国节点, 🇹🇼 台湾节点, 🇵🇭 菲律宾节点, 🌐 全部节点, 直连]}
-  - { name: 🍀 Google, type: select, proxies: [🔯 香港故转, 🔯 日本故转, 🔯 狮城故转, 🔯 美国故转, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 德国自动, ♻️ 英国自动, ♻️ 台湾自动, ♻️ 菲律宾自动, ♻️ 自动选择, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 狮城节点, 🇺🇲 美国节点, 🇩🇪 德国节点, 🇬🇧 英国节点, 🇹🇼 台湾节点, 🇵🇭 菲律宾节点, 🌐 全部节点, 直连]}
-  - { name: 🤖 ChatGPT, type: select, proxies: [🔯 日本故转, 🔯 狮城故转, 🔯 美国故转, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 德国自动, ♻️ 英国自动, ♻️ 台湾自动, ♻️ 菲律宾自动, ♻️ 自动选择, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 狮城节点, 🇺🇲 美国节点, 🇩🇪 德国节点, 🇬🇧 英国节点, 🇹🇼 台湾节点, 🇵🇭 菲律宾节点, 🌐 全部节点, 直连]}
-  - { name: 👨🏿‍💻 GitHub, type: select, proxies: [🔯 香港故转, 🔯 日本故转, 🔯 狮城故转, 🔯 美国故转, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 德国自动, ♻️ 英国自动, ♻️ 台湾自动, ♻️ 菲律宾自动, ♻️ 自动选择, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 狮城节点, 🇺🇲 美国节点, 🇩🇪 德国节点, 🇬🇧 英国节点, 🇹🇼 台湾节点, 🇵🇭 菲律宾节点, 🌐 全部节点, 直连]}
-  - { name: 🐬 OneDrive, type: select, proxies: [🔯 日本故转, 🔯 狮城故转, 🔯 美国故转, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 德国自动, ♻️ 英国自动, ♻️ 台湾自动, ♻️ 菲律宾自动, ♻️ 自动选择, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 狮城节点, 🇺🇲 美国节点, 🇩🇪 德国节点, 🇬🇧 英国节点, 🇹🇼 台湾节点, 🇵🇭 菲律宾节点, 🌐 全部节点, 直连]}
-  - { name: 🪟 Microsoft, type: select, proxies: [🔯 日本故转, 🔯 狮城故转, 🔯 美国故转, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 德国自动, ♻️ 英国自动, ♻️ 台湾自动, ♻️ 菲律宾自动, ♻️ 自动选择, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 狮城节点, 🇺🇲 美国节点, 🇩🇪 德国节点, 🇬🇧 英国节点, 🇹🇼 台湾节点, 🇵🇭 菲律宾节点, 🌐 全部节点, 直连]}
-  - { name: 🎵 TikTok, type: select, proxies: [🔯 日本故转, 🔯 狮城故转, 🔯 美国故转, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 德国自动, ♻️ 英国自动, ♻️ 台湾自动, ♻️ 菲律宾自动, ♻️ 自动选择, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 狮城节点, 🇺🇲 美国节点, 🇩🇪 德国节点, 🇬🇧 英国节点, 🇹🇼 台湾节点, 🇵🇭 菲律宾节点, 🌐 全部节点, 直连]}
-  - { name: 📲 Telegram, type: select, proxies: [🔯 香港故转, 🔯 日本故转, 🔯 狮城故转, 🔯 美国故转, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 德国自动, ♻️ 英国自动, ♻️ 台湾自动, ♻️ 菲律宾自动, ♻️ 自动选择, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 狮城节点, 🇺🇲 美国节点, 🇩🇪 德国节点, 🇬🇧 英国节点, 🇹🇼 台湾节点, 🇵🇭 菲律宾节点, 🌐 全部节点, 直连]}
-  - { name: 🎥 NETFLIX, type: select, proxies: [🔯 狮城故转, 🔯 香港故转, 🔯 日本故转, 🔯 美国故转, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 德国自动, ♻️ 英国自动, ♻️ 台湾自动, ♻️ 菲律宾自动, ♻️ 自动选择, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 狮城节点, 🇺🇲 美国节点, 🇩🇪 德国节点, 🇬🇧 英国节点, 🇹🇼 台湾节点, 🇵🇭 菲律宾节点, 🌐 全部节点, 直连]}
-  - { name: 💶 PayPal, type: select, proxies: [🔯 日本故转, 🔯 香港故转, 🔯 狮城故转, 🔯 美国故转, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 德国自动, ♻️ 英国自动, ♻️ 台湾自动, ♻️ 菲律宾自动, ♻️ 自动选择, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 狮城节点, 🇺🇲 美国节点, 🇩🇪 德国节点, 🇬🇧 英国节点, 🇹🇼 台湾节点, 🇵🇭 菲律宾节点, 🌐 全部节点, 直连]}
-  - { name: 🐟 漏网之鱼, type: select, proxies: [🚀 默认代理, 🔯 香港故转, 🔯 日本故转, 🔯 狮城故转, 🔯 美国故转, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 德国自动, ♻️ 英国自动, ♻️ 台湾自动, ♻️ 菲律宾自动, ♻️ 自动选择, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 狮城节点, 🇺🇲 美国节点, 🇩🇪 德国节点, 🇬🇧 英国节点, 🇹🇼 台湾节点, 🇵🇭 菲律宾节点, 🌐 全部节点, 直连]}
+  - { name: 🚀 默认代理, type: select, proxies: [🔯 香港故转, 🔯 日本故转, 🔯 台湾故转, 🔯 美国故转, ♻️ 香港自动, ♻️ 日本自动, ♻️ 美国自动, ♻️ 台湾自动, ♻️ 自动选择, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 狮城节点, 🇺🇲 美国节点, 🇩🇪 德国节点, 🇬🇧 英国节点, 🇼🇸 台湾节点, 🇵🇭 菲律宾节点, 🌐 全部节点, 直连]}
+  - { name: 📹 YouTube, type: select, proxies: [🔯 美国故转, 🔯 香港故转, 🔯 台湾故转, 🔯 日本故转, ♻️ 美国自动, ♻️ 香港自动, ♻️ 日本自动, ♻️ 台湾自动, ♻️ 自动选择, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇺🇲 美国节点, 🇼🇸 台湾节点, 🌐 全部节点]}
+  - { name: 🍀 Google, type: select, proxies: [🔯 香港故转, 🔯 日本故转, 🔯 台湾故转, 🔯 美国故转, ♻️ 美国自动, ♻️ 香港自动, ♻️ 日本自动, ♻️ 台湾自动, ♻️ 自动选择, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇺🇲 美国节点, 🇼🇸 台湾节点, 🌐 全部节点]}
+  - { name: 🤖 ChatGPT, type: select, proxies: [🔯 日本故转, 🔯 台湾故转, 🔯 美国故转, ♻️ 日本自动, ♻️ 美国自动, ♻️ 台湾自动, 🇯🇵 日本节点, 🇸🇬 狮城节点, 🇺🇲 美国节点, 🇼🇸 台湾节点, 🌐 全部节点, 直连]}
+  - { name: 👨🏿‍💻 GitHub, type: select, proxies: [🔯 香港故转, 🔯 日本故转, 🔯 台湾故转, 🔯 美国故转, ♻️ 香港自动, ♻️ 日本自动, ♻️ 美国自动, ♻️ 台湾自动, ♻️ 自动选择, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇺🇲 美国节点, 🇼🇸 台湾节点, 🌐 全部节点, 直连]}
+  - { name: 🐬 OneDrive, type: select, proxies: [🔯 香港故转, 🔯 日本故转, 🔯 台湾故转, 🔯 美国故转, ♻️ 香港自动, ♻️ 日本自动, ♻️ 美国自动, ♻️ 台湾自动, ♻️ 自动选择, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇺🇲 美国节点, 🇼🇸 台湾节点, 🌐 全部节点, 直连]}
+  - { name: 🪟 Microsoft, type: select, proxies: [🔯 香港故转, 🔯 日本故转, 🔯 台湾故转, 🔯 美国故转, ♻️ 香港自动, ♻️ 日本自动, ♻️ 美国自动, ♻️ 台湾自动, ♻️ 自动选择, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇺🇲 美国节点, 🇼🇸 台湾节点, 🌐 全部节点, 直连]}
+  - { name: 🎵 TikTok, type: select, proxies: [🔯 日本故转, 🔯 美国故转, ♻️ 日本自动, ♻️ 美国自动, 🇯🇵 日本节点, 🇺🇲 美国节点, 🇵🇭 菲律宾节点, 🌐 全部节点]}
+  - { name: 📲 Telegram, type: select, proxies: [🔯 香港故转, 🔯 日本故转, 🔯 台湾故转, 🔯 美国故转, ♻️ 香港自动, ♻️ 日本自动, ♻️ 美国自动, ♻️ 台湾自动, ♻️ 自动选择, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇺🇲 美国节点, 🇼🇸 台湾节点, 🌐 全部节点, 直连]}
+  - { name: 🎥 NETFLIX, type: select, proxies: [🔯 香港故转, 🔯 日本故转, 🔯 台湾故转, 🔯 美国故转, ♻️ 香港自动, ♻️ 日本自动, ♻️ 美国自动, ♻️ 台湾自动, ♻️ 自动选择, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 狮城节点, 🇺🇲 美国节点, 🇼🇸 台湾节点, 🌐 全部节点, 直连]}
+  - { name: 💶 PayPal, type: select, proxies: [🔯 香港故转, 🔯 美国故转, ♻️ 香港自动, ♻️ 美国自动, 🇭🇰 香港节点, 🇺🇲 美国节点, 🌐 全部节点, 直连]}
+  - { name: 🦈 Facebook, type: select, proxies: [🔯 香港故转, 🔯 台湾故转, 🔯 美国故转, ♻️ 香港自动, ♻️ 美国自动, 🇭🇰 香港节点, 🇺🇲 美国节点, 🇬🇧 英国节点, 🌐 全部节点]}
+  - { name: 💫 GoogleVoice, type: select, proxies: [🇺🇲 美国节点]}
+  - { name: 🦪 Cryptocurrency, type: select, proxies: [🔯 台湾故转, 🔯 日本故转, ♻️ 台湾自动, ♻️ 日本自动, 🇼🇸 台湾节点, 🇯🇵 日本节点]}
+
+  - { name: 🐟 漏网之鱼, type: select, proxies: [🚀 默认代理, 🔯 香港故转, 🔯 日本故转, 🔯 台湾故转, 🔯 美国故转, ♻️ 香港自动, ♻️ 日本自动, ♻️ 美国自动, ♻️ 台湾自动, ♻️ 自动选择, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 狮城节点, 🇺🇲 美国节点, 🇩🇪 德国节点, 🇬🇧 英国节点, 🇼🇸 台湾节点, 🌐 全部节点, 直连]}
 
   - { name: 🇭🇰 香港节点, type: select, include-all: true, filter: "(?i)港|hk|hongkong|hong kong"}
   - { name: 🇯🇵 日本节点, type: select, include-all: true, filter: "(?i)日本|jp|japan"}
@@ -461,26 +465,26 @@ proxy-groups:
   - { name: 🇺🇲 美国节点, type: select, include-all: true, filter: "(?i)美|us|unitedstates|united states"}
   - { name: 🇩🇪 德国节点, type: select, include-all: true, filter: "(?i)德|Germany"}
   - { name: 🇬🇧 英国节点, type: select, include-all: true, filter: "(?i)英|uk|Great Britain|United Kingdom"}
-  - { name: 🇹🇼 台湾节点, type: select, include-all: true, filter: "(?i)台|tw|Taiwan"}
+  - { name: 🇼🇸 台湾节点, type: select, include-all: true, filter: "(?i)台|tw|Taiwan"}
   - { name: 🇵🇭 菲律宾节点, type: select, include-all: true, filter: "(?i)菲|Philippines"}
 
-  - { name: 🔯 香港故转, type: fallback, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(港|HK|(?i)Hong))^((?!(台|日|韩|新|深|美|德|英|菲)).)*$"}
+  - { name: 🔯 香港故转, type: fallback, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(港|HK|(?i)Hong))^((?!(台|日|韩|新|美|德|英|菲)).)*$"}
   - { name: 🔯 日本故转, type: fallback, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(日本|JP|(?i)Japan))^((?!(港|台|韩|新|美|德|英|菲)).)*$"}
-  - { name: 🔯 狮城故转, type: fallback, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(新加坡|坡|狮城|SG|Singapore))^((?!(台|日|韩|深|美|德|英|菲)).)*$"}
+  - { name: 🔯 台湾故转, type: fallback, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(台|tw|Taiwan))^((?!(港|日|新|韩|美|德|英|菲)).)*$"}
   - { name: 🔯 美国故转, type: fallback, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(美|US|(?i)States|America))^((?!(港|台|日|韩|新|德|英|菲)).)*$"}
-  - { name: 🔯 德国故转, type: fallback, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(德|Germany))^((?!(港|台|日|韩|新|深|美|英|菲)).)*$"}
-  - { name: 🔯 英国故转, type: fallback, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(英|uk|(?i)Britain|(?i)Kingdom))^((?!(港|台|韩|新|美|德|英|菲)).)*$"}
-  - { name: 🔯 台湾故转, type: fallback, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(台|tw|Taiwan))^((?!(港|日|新|韩|深|美|德|英|菲)).)*$"}
-  - { name: 🔯 菲律宾故转, type: fallback, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(菲|Philippines))^((?!(港|台|日|韩|新|美|英|德)).)*$"}
+#  - { name: 🔯 狮城故转, type: fallback, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(新加坡|坡|狮城|SG|Singapore))^((?!(港|台|日|韩|美|德|英|菲)).)*$"}
+#  - { name: 🔯 德国故转, type: fallback, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(德|Germany))^((?!(港|台|日|韩|新|美|英|菲)).)*$"}
+#  - { name: 🔯 英国故转, type: fallback, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(英|uk|(?i)Britain|(?i)Kingdom))^((?!(港|日|台|韩|新|美|德|菲)).)*$"}
+#  - { name: 🔯 菲律宾故转, type: fallback, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(菲|Philippines))^((?!(港|台|日|韩|新|美|英|德)).)*$"}
 
-  - { name: ♻️ 香港自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(港|HK|(?i)Hong))^((?!(台|日|韩|新|深|美|德|英|菲)).)*$"}
+  - { name: ♻️ 香港自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(港|HK|(?i)Hong))^((?!(台|日|韩|新|美|德|英|菲)).)*$"}
   - { name: ♻️ 日本自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(日本|JP|(?i)Japan))^((?!(港|台|韩|新|美|德|英|菲)).)*$"}
-  - { name: ♻️ 狮城自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(新加坡|坡|狮城|SG|Singapore))^((?!(台|日|韩|日|美|德|英|菲)).)*$"}
+  - { name: ♻️ 台湾自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(台|tw|Taiwan))^((?!(港|日|韩|新|美|德|英|菲)).)*$"}
   - { name: ♻️ 美国自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(美|US|(?i)States|America))^((?!(港|台|日|韩|新|德|英|菲)).)*$"}
-  - { name: ♻️ 德国自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(德|Germany))^((?!(台|日|韩|新|深|美|德|英|菲)).)*$"}
-  - { name: ♻️ 英国自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(英|uk|(?i)Britain|(?i)Kingdom))^((?!(港|台|韩|新|美|德|英|菲)).)*$"}
-  - { name: ♻️ 台湾自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(台|tw|Taiwan))^((?!(台|日|韩|日|美|德|英|菲)).)*$"}
-  - { name: ♻️ 菲律宾自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(菲|Philippines))^((?!(港|台|日|韩|新|德|英|菲)).)*$"}
+#  - { name: ♻️ 狮城自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(新加坡|坡|狮城|SG|Singapore))^((?!(港|台|日|韩|日|美|德|英|菲)).)*$"}
+#  - { name: ♻️ 德国自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(德|Germany))^((?!(港|台|日|韩|新|深|美|英|菲)).)*$"}
+#  - { name: ♻️ 英国自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(英|uk|(?i)Britain|(?i)Kingdom))^((?!(港|台|日|韩|新|美|德|菲)).)*$"}
+#  - { name: ♻️ 菲律宾自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(菲|Philippines))^((?!(港|台|日|韩|新|德|英)).)*$"}
   - { name: ♻️ 自动选择, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "^((?!(直连)).)*$"}
   - { name: 🌐 全部节点, type: select, include-all: true}
 
@@ -500,12 +504,15 @@ rules:
   - RULE-SET,telegram_domain,📲 Telegram
   - RULE-SET,netflix_domain,🎥 NETFLIX
   - RULE-SET,paypal_domain,💶 PayPal
+  - RULE-SET,cryptocurrency_domain,🦪 Cryptocurrency
 
   - RULE-SET,private_ip,直连,no-resolve
   - RULE-SET,apple_ip,直连
   - RULE-SET,google_ip,🍀 Google
   - RULE-SET,netflix_ip,🎥 NETFLIX
   - RULE-SET,telegram_ip,📲 Telegram
+  - RULE-SET,facebook_ip,🦈 Facebook
+  - RULE-SET,googlevoicelist,💫 GoogleVoice
   - RULE-SET,geolocation-!cn,🚀 默认代理
 
   - RULE-SET,cn_ip,直连
@@ -584,7 +591,15 @@ rule-providers:
     <<: *domain
     url: https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/cn.mrs
     path: "./rule_provider/my_geosite_cn.mrs"
-
+  cryptocurrency_domain:
+    <<: *domain
+    url: https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/category-cryptocurrency.mrs
+    path: "./rule_provider/my_category-cryptocurrency.mrs"
+  googlevoicelist:
+    <<: *class
+    url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/GoogleVoice/GoogleVoice.list
+    path: "./rule_provider/my_googlevoice.list"
+    
   private_ip:
     <<: *ip
     url: https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geoip/private.mrs
@@ -609,3 +624,7 @@ rule-providers:
     <<: *ip
     url: https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo-lite/geoip/apple.mrs
     path: "./rule_provider/my_geoip_apple.mrs"
+  facebook_ip:
+    <<: *ip
+    url: https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo-lite/geoip/facebook.mrs
+    path: "./rule_provider/my_geoip_facebook.mrs"
