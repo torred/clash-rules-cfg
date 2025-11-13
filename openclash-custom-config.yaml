@@ -502,7 +502,7 @@ rules:
   - RULE-SET,github_domain,👨🏿‍💻 GitHub
   - RULE-SET,youtube_domain,📹 YouTube
   - DOMAIN-SUFFIX,torred.com,💫 GoogleVoice
-  - RULE-SET,googlevoice,💫 GoogleVoice  
+  - RULE-SET,googlevoice,💫 GoogleVoice
   - RULE-SET,google_domain,🍀 Google
   - RULE-SET,onedrive_domain,🐬 OneDrive
   - RULE-SET,microsoft_domain,🪟 Microsoft
@@ -520,7 +520,6 @@ rules:
   - RULE-SET,telegram_ip,📲 Telegram
   - RULE-SET,facebook_ip,🦈 Facebook
   - RULE-SET,geolocation-!cn,🚀 默认代理
-
   - RULE-SET,cn_ip,直连
   - MATCH,🐟 漏网之鱼
 
@@ -539,7 +538,7 @@ rule-providers:
     path: "./rule_provider/my_private.mrs"
   proxylite:
     <<: *class
-    url: url: https://cdn.jsdelivr.net/gh/torred/rule@main/proxy.list
+    url: https://cdn.jsdelivr.net/gh/torred/rule@main/proxy.list
     path: "./rule_provider/my_proxy.list"
   ai:
     <<: *domain
@@ -552,7 +551,7 @@ rule-providers:
   googlevoice:
     <<: *class
     url: https://cdn.jsdelivr.net/gh/torred/clash-config@main/rule-files/googlevoice.list
-    path: "./rule_provider/my_googlevoice.list"    
+    path: "./rule_provider/my_googlevoice.list"
   google_domain:
     <<: *domain
     url: https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/google.mrs
@@ -605,7 +604,7 @@ rule-providers:
     <<: *domain
     url: https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/category-cryptocurrency.mrs
     path: "./rule_provider/my_category-cryptocurrency.mrs"
-    
+
   private_ip:
     <<: *ip
     url: https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geoip/private.mrs
