@@ -463,7 +463,7 @@ proxy-groups:
   - { name: 🐟 漏网之鱼, type: select, proxies: [🚀 默认代理, 🔯 香港故转, 🔯 日本故转, 🔯 台湾故转, 🔯 美国故转, ♻️ 香港自动, ♻️ 日本自动, ♻️ 美国自动, ♻️ 台湾自动, ♻️ 自动选择, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 狮城节点, 🇺🇲 美国节点, 🇩🇪 德国节点, 🇬🇧 英国节点, 🇼🇸 台湾节点, 🌐 全部节点, 直连]}
 
   - { name: 🇺🇲 美国住宅-31, type: relay, proxies: [ "♻️ 香港自动", "美国住宅-1"]}
-  
+
   - { name: 🇭🇰 香港节点, type: select, include-all: true, filter: "(?i)港|hk|hongkong|hong kong"}
   - { name: 🇯🇵 日本节点, type: select, include-all: true, filter: "(?i)日本|jp|japan"}
   - { name: 🇸🇬 狮城节点, type: select, include-all: true, filter: "(?i)新加坡|坡|狮城|SG|Singapore"}
