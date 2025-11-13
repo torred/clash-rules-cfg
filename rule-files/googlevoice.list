@@ -1,1 +1,11 @@
+# NAME: GoogleVoice
+# AUTHOR: torred
+# REPO: https://github.com/torred/clash-config/rule-files
+# UPDATED: 2025-11-13 20:30:51
+# DOMAIN: 1
+
+# TOTAL: 3
+DOMAIN,lens.l.google.com
+DOMAIN,voice.google.com
+DOMAIN,voice.clients6.google.com
 
